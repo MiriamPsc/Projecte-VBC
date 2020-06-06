@@ -5,7 +5,7 @@ Public Class SegundaParte
 
     Public Shared Sub Respuesta1()
         If clave1 = "DALI" Then
-            respuesta = "C:\Users\miria\Desktop\LA CASA DE PAPEL\2.txt"
+            respuesta = "C:\Users\miria\source\repos\OnAnother\LA CASA DE PAPEL\2.txt"
             archivo3 = File.ReadAllText(respuesta)
             Console.WriteLine(archivo3)
             Console.WriteLine()
@@ -18,7 +18,7 @@ Public Class SegundaParte
     End Sub
 
     Public Shared Sub Pregunta2()
-        pregunta_2 = "C:\Users\miria\Desktop\LA CASA DE PAPEL\3.txt"
+        pregunta_2 = "C:\Users\miria\source\repos\OnAnother\LA CASA DE PAPEL\3.txt"
         archivo4 = File.ReadAllText(pregunta_2)
         Console.WriteLine(archivo4)
         Console.WriteLine()

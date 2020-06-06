@@ -7,7 +7,7 @@ Public Class CuartaParte
 
     Public Shared Sub Respuesta4()
         If clave3 = "648" Then
-            Dim respuesta4 As String = "C:\Users\miria\Desktop\LA CASA DE PAPEL\4.txt"
+            Dim respuesta4 As String = "C:\Users\miria\source\repos\OnAnother\LA CASA DE PAPEL\4.txt"
             Dim archivo4 As String = File.ReadAllText(respuesta4)
             Console.WriteLine(archivo4)
             Console.WriteLine()
@@ -21,7 +21,7 @@ Public Class CuartaParte
 
     Public Shared Sub Pregunta5()
         Console.WriteLine("ESTA ES LA ULTIMA")
-        respuesta = "C:\Users\miria\Desktop\LA CASA DE PAPEL\4.txt"
+        respuesta = "C:\Users\miria\source\repos\OnAnother\LA CASA DE PAPEL\4.txt"
         archivo3 = File.ReadAllText(respuesta)
         Console.WriteLine("RESPUESTA")
         resp5 = Console.ReadLine()
