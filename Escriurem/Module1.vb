@@ -1,10 +1,12 @@
 ﻿Module Module1
 
     Sub Main()
+        Dim M As New QuintaParte()
         ACII.Imagen()
         ACII.Title()
-        Console.ForegroundColor = ConsoleColor.White
+        M.Color()
         PrimeraParte.MensajeInicial()
+        Console.WriteLine(M.Mens())
         Console.ReadKey()
         Environment.[Exit](0)
     End Sub

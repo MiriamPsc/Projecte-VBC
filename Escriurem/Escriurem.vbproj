@@ -70,6 +70,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ACII.vb" />
+    <Compile Include="Colores.vb" />
     <Compile Include="CuartaParte.vb" />
     <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -87,6 +88,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="ParaProbar.vb" />
     <Compile Include="PrimeraParte.vb" />
     <Compile Include="QuintaParte.vb" />
     <Compile Include="SegundaParte.vb" />
