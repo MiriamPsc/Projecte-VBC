@@ -1,0 +1,16 @@
+Para poder continuar, primero es importante que conozcas a la banda. Para proteger a mis compañeros, 
+y de paso descubrir si de verdad eres merecedor del botin, tendrás que pensar un poco.
+
+Tienes que encontrar una clave de tres cifras. 
+
+El ultimo que lo intento, probo con las 5 que se muestran abajo y, a modo orientativo, 
+te dejo algunas anotaciones de sus aciertos y errores.
+
+Que encuentres este numero es importante, seguro que te abre la posibilidad de conocernos un poco mejor.
+
+* 5-2-8 * Un numero es correcto y su posicion es correcta.
+* 9-3-2 * Nada es correcto.
+* 9-2-6 * Un numero es correcto pero mal posicionado.
+* 5-1-4 * Un nmero es correcto pero mal posicionado.
+* 8-6-5 * Dos numeros son correctos pero su posicion no.
+
