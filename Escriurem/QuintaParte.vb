@@ -1,6 +1,6 @@
 ﻿Public Class QuintaParte
     Inherits CuartaParte
-    Implements ParaProbar, Colores
+    Implements IParaProbar, IColores
 
     Public Shared Sub Respuesta5()
         If resp5 = "34655854" Then
@@ -25,13 +25,13 @@
 
     End Sub
 
-    Public Function Mens() As String Implements ParaProbar.Mensaje
+    Public Function Mens() As String Implements IParaProbar.Mensaje
         Dim Fin As String
         Fin = ("SE ACABÓ")
         Return Fin
     End Function
 
-    Public Sub Color() Implements Colores.Color
+    Public Sub Color() Implements IColores.Color
         Console.ForegroundColor = ConsoleColor.White
     End Sub
 

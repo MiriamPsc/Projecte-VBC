@@ -1,3 +1,3 @@
-﻿Public Interface Colores
+﻿Public Interface IColores
     Sub Color()
 End Interface

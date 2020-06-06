@@ -2,7 +2,7 @@
 
 Public Class CuartaParte
     Inherits TerceraParte
-    Implements ParaProbar
+    Implements IParaProbar
 
     Public Shared O As New CuartaParte()
 
@@ -31,7 +31,7 @@ Public Class CuartaParte
         Console.WriteLine("")
         QuintaParte.Respuesta5()
     End Sub
-    Public Function Mens() As String Implements ParaProbar.Mensaje
+    Public Function Mens() As String Implements IParaProbar.Mensaje
         Dim Animo As String
         Animo = ("SE QUE PUEDES RECORDAR")
         Return Animo
