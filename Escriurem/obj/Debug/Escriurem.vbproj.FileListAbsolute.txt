@@ -1,0 +1,11 @@
+C:\Users\miria\source\repos\Escriurem\Escriurem\bin\Debug\Escriurem.exe.config
+C:\Users\miria\source\repos\Escriurem\Escriurem\bin\Debug\Escriurem.exe
+C:\Users\miria\source\repos\Escriurem\Escriurem\bin\Debug\Escriurem.pdb
+C:\Users\miria\source\repos\Escriurem\Escriurem\bin\Debug\Escriurem.xml
+C:\Users\miria\source\repos\Escriurem\Escriurem\obj\Debug\Escriurem.vbprojAssemblyReference.cache
+C:\Users\miria\source\repos\Escriurem\Escriurem\obj\Debug\Escriurem.Resources.resources
+C:\Users\miria\source\repos\Escriurem\Escriurem\obj\Debug\Escriurem.vbproj.GenerateResource.cache
+C:\Users\miria\source\repos\Escriurem\Escriurem\obj\Debug\Escriurem.vbproj.CoreCompileInputs.cache
+C:\Users\miria\source\repos\Escriurem\Escriurem\obj\Debug\Escriurem.exe
+C:\Users\miria\source\repos\Escriurem\Escriurem\obj\Debug\Escriurem.xml
+C:\Users\miria\source\repos\Escriurem\Escriurem\obj\Debug\Escriurem.pdb
